@@ -1,0 +1,57 @@
+body{
+	
+	background: url(img/fondo.jpg)
+}
+
+.container{
+	background: #ffff;
+}
+
+.clearfix{
+	color: lightblue;
+}
+
+.clearfix a{
+	color: lightblue;
+}
+
+.bi-cart3{
+	content:"\F244";
+}
+
+#acesso{
+	margin-top: 5px;
+}
+.me-3 {
+      text-decoration: none !important;
+      color: #ffff;
+
+  }
+
+.float-none{
+	margin-top: 80px;
+}
+
+
+.bg-dark{
+	margin-top: 30px;
+}
+/*--------categoria-------*/
+#categor{
+	margin-top: 60px;
+	margin: 20px;
+	height: 100%;
+}
+
+#categoria{
+	margin-top: 10px;
+} 
+.card{
+	margin-top: 10px;
+}
+
+.card-iframe {
+  width: 100%;
+  height: 200px;
+}    
+
